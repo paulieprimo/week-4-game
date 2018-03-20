@@ -5,13 +5,12 @@
   
 }
 
-
-.button {
+.button c2 c3{
 
 
 height: 150px;
 width: 100px;
-margin-right: 10px;
+margin-right: 20px;
 
 
 }
@@ -19,7 +18,7 @@ margin-right: 10px;
 #random-display {
 
   height: 150px;
-  width: 200px;
+  width: 225px;
   background-color: rgb(211, 195, 52);
   font-size: 20; 
   float: right;
